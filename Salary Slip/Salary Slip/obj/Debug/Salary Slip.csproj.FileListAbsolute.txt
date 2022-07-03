@@ -1,0 +1,8 @@
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\bin\Debug\Salary Slip.exe.config
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\bin\Debug\Salary Slip.exe
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\bin\Debug\Salary Slip.pdb
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\obj\Debug\Salary Slip.csproj.AssemblyReference.cache
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\obj\Debug\Salary Slip.csproj.SuggestedBindingRedirects.cache
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\obj\Debug\Salary Slip.csproj.CoreCompileInputs.cache
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\obj\Debug\Salary Slip.exe
+D:\CureMD bootcamp\C sharp\Salary Slip\Salary Slip\obj\Debug\Salary Slip.pdb
